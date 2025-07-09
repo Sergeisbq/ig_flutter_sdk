@@ -1,0 +1,13 @@
+name: ig_flutter_sdk
+description: Flutter widget that wraps the IG Face Scan using WebView
+version: 0.0.1
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_inappwebview: ^6.0.0
+  permission_handler: ^11.0.0
+
+flutter:
